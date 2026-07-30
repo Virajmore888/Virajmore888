@@ -66,9 +66,11 @@ I used Claude AI throughout these projects, for writing and debugging code, veri
 
 **Where the data came from:**
 - **HR & E-Commerce**: I generated synthetic datasets using Claude AI, giving it only metadata as input. I made these datasets messy on purpose, so they would be closer to real-world data than a typical clean public dataset.
+- **TechnoHacks Internship**: Used a generic synthetic dataset generated with Claude AI.
 - **Zomato & Healthcare**: Sourced from Kaggle.
 - **Nifty50 & Movie Analysis**: Fetched live using APIs (yfinance, TMDB, OMDB).
 - **Zomato Restaurant Dashboard**: Built using the cleaned dataset from the Zomato Bangalore Restaurant EDA project.
+- **TechnoHacks Internship**: Used a generic dataset I built myself for the internship tasks.
 
 ---
 
