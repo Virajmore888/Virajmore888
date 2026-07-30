@@ -58,7 +58,7 @@ Every project follows the same modular, six-step pipeline, instead of one script
 fetch.py → EDA.py → cleaning.py → verification.py → visualization.py → insights.py
 ```
 
-Most beginner projects skip straight from cleaning to charts. I run EDA before cleaning, on the raw data, to understand its shape, distributions, and quality issues first. I also added a dedicated **verification step**: after cleaning, each table is re-checked before it's allowed into the master table. This catches issues that slip through a single cleaning pass, and it's a step real-world data pipelines use but most learning projects don't.
+Most beginner projects skip straight from cleaning to charts. I run EDA before cleaning, on the raw data, to understand its shape, distributions, and quality issues first. I also added a dedicated **verification step**: after cleaning, each table is re-checked before it's allowed into the master table or SQL database. Data is only inserted into the SQL database and master table once all tables pass verification, not before. This catches issues that slip through a single cleaning pass, and it's a step real-world data pipelines use but most learning projects don't.
 
 ---
 
