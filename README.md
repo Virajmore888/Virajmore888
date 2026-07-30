@@ -17,21 +17,23 @@ I build data analytics projects using Python, SQL, and Pandas. I clean raw data,
 
 ## 🛠️ Skills
 
-`Python` · `SQL` · `Pandas` · `Polars` · `NumPy` · `Matplotlib` · `Seaborn` · `Plotly` · `Data Cleaning` · `Exploratory Data Analysis` · `Data Visualization` · `Business Intelligence`
+`Python` · `SQL` · `Pandas` · `Polars` · `NumPy` · `Matplotlib` · `Seaborn` · `Plotly` · `python-dotenv` · `Data Cleaning` · `Exploratory Data Analysis` · `Data Visualization` · `Business Intelligence`
 
 ---
 
 ## 📊 Projects
 
+*Every project below also produces a written report (MS Word) and slide deck (MS PowerPoint) as final deliverables.*
+
 | Project | Description | Tools Used |
 |---|---|---|
-| [HR Employee Attrition Analytics](https://github.com/Virajmore888/hr-employee-attrition-analytics) | A pipeline that studies employee attrition, salaries, and performance using a multi-table HR dataset | Python, Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy, MS Word, MS PowerPoint |
-| [Hospital Data Cleaning & Analytics](https://github.com/Virajmore888/hospital-data-cleaning-analytics) | Cleans and joins 5 hospital tables to find no-show rates, revenue, and cost patterns | Python, Polars, NumPy, Matplotlib, Seaborn, Plotly, Plotly Express, MS Word, MS PowerPoint |
-| [E-Commerce SQL Analysis](https://github.com/Virajmore888/e-commerce-sql-analytics) | SQL analysis of an e-commerce database, from schema design to basic and advanced queries | Python, SQL, Pandas, Matplotlib, Seaborn, SQLAlchemy, MS Word, MS PowerPoint |
-| [Zomato Bangalore Restaurant EDA](https://github.com/Virajmore888/zomato-bangalore-restaurant-eda) | Explores Bangalore restaurant data to study cuisines, cost, and ratings | Python, Pandas, NumPy, Matplotlib, Seaborn, MS Word, MS PowerPoint |
-| [Nifty50 Market Analysis](https://github.com/Virajmore888/nifty50-market-analysis) | Studies Nifty50 stock market data to find trends and patterns | Python, Pandas, NumPy, Matplotlib, Seaborn, yfinance, SciPy, MS Word, MS PowerPoint |
-| [Movie Budget, Revenue & Ratings Analysis](https://github.com/Virajmore888/movie-budget-revenue-ratings-analysis) | Joins live TMDB and OMDB data to see how movie budgets, revenue, and ratings relate to each other | Python, Pandas, NumPy, Matplotlib, Seaborn, Requests, MS Word, MS PowerPoint |
-| [Zomato Restaurant Dashboard](https://github.com/Virajmore888/zomato-restaurant-dashboard) | An interactive dashboard built on Zomato restaurant data | Python, Pandas, Streamlit, Matplotlib, Seaborn |
+| [HR Employee Attrition Analytics](https://github.com/Virajmore888/hr-employee-attrition-analytics) | Studies attrition, salaries, and performance across a multi-table HR dataset | Python, Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy, python-dotenv |
+| [Hospital Data Cleaning & Analytics](https://github.com/Virajmore888/hospital-data-cleaning-analytics) | Joins 5 hospital tables to find no-show rates, revenue, and cost patterns | Python, Polars, NumPy, Matplotlib, Seaborn, Plotly, Plotly Express |
+| [E-Commerce SQL Analysis](https://github.com/Virajmore888/e-commerce-sql-analytics) | SQL analysis of an e-commerce database, from schema design to advanced queries | Python, SQL, Pandas, Matplotlib, Seaborn, SQLAlchemy, python-dotenv |
+| [Zomato Bangalore Restaurant EDA](https://github.com/Virajmore888/zomato-bangalore-restaurant-eda) | Explores cuisines, cost, and ratings across Bangalore restaurants | Python, Pandas, NumPy, Matplotlib, Seaborn |
+| [Nifty50 Market Analysis](https://github.com/Virajmore888/nifty50-market-analysis) | Studies Nifty50 stock data to find trends and patterns | Python, Pandas, NumPy, Matplotlib, Seaborn, yfinance, SciPy |
+| [Movie Budget, Revenue & Ratings Analysis](https://github.com/Virajmore888/movie-budget-revenue-ratings-analysis) | Joins live TMDB and OMDB data to relate budgets, revenue, and ratings | Python, Pandas, NumPy, Matplotlib, Seaborn, Requests, python-dotenv |
+| [Zomato Restaurant Dashboard](https://github.com/Virajmore888/zomato-restaurant-dashboard) | Interactive dashboard built on Zomato restaurant data | Python, Pandas, Streamlit, Matplotlib, Seaborn |
 | [TechnoHacks Data Analytics Internship](https://github.com/Virajmore888/TechnoHacks-Data-Analytics-Internship) | Tasks completed during a Data Analytics internship at TechnoHacks Solutions Pvt. Ltd. | Python, Pandas, NumPy, Matplotlib |
 
 🔗 [Live Demo](https://zomato-restaurant-dashboard-luqogpwxegaukhh8c3pmre.streamlit.app/)
