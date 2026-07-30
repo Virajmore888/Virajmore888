@@ -17,7 +17,7 @@ I build data analytics projects using Python, SQL, and Pandas. I clean raw data,
 
 ## 🛠️ Skills
 
-`Python` · `SQL` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Plotly` · `Data Cleaning` · `Exploratory Data Analysis` · `Data Visualization` · `Business Intelligence`
+`Python` · `SQL` · `Pandas` · `Polars` · `NumPy` · `Matplotlib` · `Seaborn` · `Plotly` · `Data Cleaning` · `Exploratory Data Analysis` · `Data Visualization` · `Business Intelligence`
 
 ---
 
