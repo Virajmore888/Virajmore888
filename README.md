@@ -70,7 +70,6 @@ I used Claude AI throughout these projects, for writing and debugging code, veri
 - **Zomato & Healthcare**: Sourced from Kaggle.
 - **Nifty50 & Movie Analysis**: Fetched live using APIs (yfinance, TMDB, OMDB).
 - **Zomato Restaurant Dashboard**: Built using the cleaned dataset from the Zomato Bangalore Restaurant EDA project.
-- **TechnoHacks Internship**: Used a generic dataset I built myself for the internship tasks.
 
 ---
 
